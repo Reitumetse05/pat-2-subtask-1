@@ -1,7 +1,4 @@
 # Comprehensive Morse Code Analysis
-
-This repository (pat2-subtask1) serves as a dedicated research space for Practical Assessment Task 2 (Subtask 1). The documentation below covers the fundamental concepts, origin stories, operational standards, and character mechanics of the Morse code signaling system.
-
 ---
 
 ## 1. What is Morse Code?
