@@ -1,3 +1,5 @@
+// Morse Code Converter Program
+// Translates English text input into Morse code representation
 #include <iostream>
 #include <string>
 #include <cctype>
@@ -19,7 +21,7 @@ int main()
 
     string message;
     string fullMorse = "";
-
+    
     cout << "Enter a message: ";
     getline(cin, message);
 
