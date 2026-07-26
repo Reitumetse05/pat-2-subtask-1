@@ -21,7 +21,8 @@ int main()
 
     string message;
     string fullMorse = "";
-    
+   
+    cout << "=== MORSE CODE CONVERTER ===" << endl;
     cout << "Enter a message: ";
     getline(cin, message);
 
