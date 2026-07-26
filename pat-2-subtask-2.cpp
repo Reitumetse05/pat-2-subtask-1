@@ -25,6 +25,9 @@ int main()
     cout << "=== MORSE CODE CONVERTER ===" << endl;
     cout << "Enter a message: ";
     getline(cin, message);
+    if (message.empty()) {
+        cout << "No text entered." << endl;
+    }
 
     for (char ch : message)
     {
