@@ -53,5 +53,6 @@ int main()
     cout << "\nFull Morse Code:" << endl;
     cout << fullMorse << endl;
 
+    cout << "\nConversion complete." << endl
     return 0;
 }
