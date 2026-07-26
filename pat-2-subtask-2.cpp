@@ -1,5 +1,3 @@
-// Morse Code Converter Program
-// Translates English text input into Morse code representation
 #include <iostream>
 #include <string>
 #include <cctype>

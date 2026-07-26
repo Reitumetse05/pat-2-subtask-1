@@ -1,0 +1,6 @@
+.vs/
+*.vsidx
+out/
+x64/
+Debug/
+Release/
